@@ -1,5 +1,5 @@
-# LAMBADA ISLAND RESORT
-#### A brief description of THE LAMBADA ISLAND RESORT, 2019
+# CRAYFISH RESORT
+#### A brief description of THE CRAYFISH RESORT.
 #### By Margy mwangi..
 ## Description
 This website is made to make the whole demograpy access their best resort.
